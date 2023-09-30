@@ -21,7 +21,7 @@ Esse repositório é apenas referente ao <b>Back-end</b> da aplicação. O códi
 - O frontend deve ser construído em React e utilizar ferramentas modernas de desenvolvimento web e as melhores práticas.
 - A aplicação deve ser responsiva e visualmente atraente.
 
-### Ferramentas utilizadas / Libs
+### Ferramentas utilizadas
 
 - <b>Adonis.js ^5.9</b> 
 
@@ -47,7 +47,7 @@ O banco de dados possui o seguinte schema:
     - favorite: boolean
     - color: string
 
-## Rotas / Routes
+## Rotas 
 
 - <b>/notes</b>
     - POST: inserir no banco de dados nova note com um title, e content 
