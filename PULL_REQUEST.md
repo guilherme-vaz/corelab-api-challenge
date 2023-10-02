@@ -54,8 +54,8 @@ O banco de dados possui o seguinte schema:
     - GET: retorna todas as notes do banco de dados
     
 - <b>/notes/:id</b>
-        - GET: retorna uma note caso o id esteja presente no banco de dados
-        - DELETE: deleta uma note a partir de um id
-        - PUT: atualiza uma note, a partir de um id e um JSON
+    - GET: retorna uma note caso o id esteja presente no banco de dados
+    - DELETE: deleta uma note a partir de um id
+    - PUT: atualiza uma note, a partir de um id e um JSON
 
 ----
