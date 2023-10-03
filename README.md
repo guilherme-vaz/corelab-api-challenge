@@ -36,6 +36,6 @@ $ npm run start
   [![Gmail Badge](https://img.shields.io/badge/-guilhermeolivaaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeolivaaz@gmail.com)](mailto:guilhermeolivaaz@gmail.com)
 
 
-  p.s.: Esqueci de adcionar um arquivo de Seed para o DB, favor ignorar as notas que fiz durante teste 
+  p.s.: Esqueci de adicionar um arquivo de Seed para o DB, favor ignorar as notas que fiz durante teste 
 
 </div>
